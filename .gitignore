@@ -28,6 +28,7 @@ ENV/
 data/raw/*.csv
 data/processed/*.csv
 data/validation/*.csv
+*.csv
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !data/validation/.gitkeep
