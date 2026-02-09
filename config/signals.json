@@ -1,0 +1,107 @@
+{
+  "tag_is_flash": {
+    "CN": ["闪光灯", "闪灯", "闪光"],
+    "US": ["flash", "strobe", "speedlite", "speedlight", "ttl", "hss"],
+    "JP": ["フラッシュ", "ストロボ", "スピードライト", "カメラフラッシュ", "ワイヤレスフラッシュ", "スレーブ", "シンクロ", "クリップオンストロボ", "クリップオンフラッシュ", "リングフラッシュ"]
+  },
+  "tag_has_bowens": {
+    "CN": ["保荣", "保荣口"],
+    "US": ["bowens", "bowens mount"],
+    "JP": ["ボーエンズ", "ボーエンズマウント"]
+  },
+  "tag_is_panel": {
+    "CN": ["平板", "面板", "阵列", "pano"],
+    "US": ["panel", "flat", "pano", "pad"],
+    "JP": ["パネル", "フラット", "パノ"]
+  },
+  "tag_is_ring": {
+    "CN": ["环形", "圆环"],
+    "US": ["ring light", "ring"],
+    "JP": ["リングライト", "リング ライト", "女優ライト", "ledリング", "リング型ライト", "リング照明", "リングフィルライト", "リングライブ", "サークルライト"]
+  },
+  "tag_is_tube": {
+    "CN": ["棒灯", "管灯"],
+    "US": ["tube light", "wand", "stick light"],
+    "JP": ["チューブライト", "ライトチューブ", "ライトスティック", "スティックライト", "ライトワンド"]
+  },
+  "tag_is_small": {
+    "CN": ["小型", "迷你", "便携", "口袋", "超薄", "薄型"],
+    "US": ["small", "mini", "compact", "pocket", "portable", "ultra thin"],
+    "JP": ["小型", "ミニ", "コンパクト", "ポケット", "超薄型", "薄型", "軽量"]
+  },
+  "tag_is_video_light": {
+    "CN": ["视频灯", "补光灯", "补光", "拍摄灯", "影棚灯"],
+    "US": ["video light", "fill light", "studio light", "film light"],
+    "JP": ["ビデオライト", "撮影用ライト", "撮影ライト", "フィルライト", "ledビデオライト"]
+  },
+  "tag_is_cob": {
+    "CN": ["cob"],
+    "US": ["cob"],
+    "JP": ["コブ"]
+  },
+  "tag_is_inflatable": {
+    "CN": ["充气灯", "气球灯"],
+    "US": ["inflatable", "balloon light"],
+    "JP": ["インフレータブル", "エアライト", "バルーン"]
+  },
+  "tag_is_flashlight": {
+    "CN": ["手电", "手电筒", "潜水电筒"],
+    "US": ["flashlight", "torch", "underwater light"],
+    "JP": ["懐中電灯", "フラッシュライト", "トーチ", "ハンドライト", "ペンライト"]
+  },
+  "tag_has_stand": {
+    "CN": ["支架", "三脚", "灯架", "自拍杆", "自拍摄"],
+    "US": ["stand", "tripod", "light stand", "selfie stick"],
+    "JP": ["スタンド", "三脚", "トライポッド", "自撮り棒", "セルカ棒"]
+  },
+  "tag_has_magnetic": {
+    "CN": ["磁吸", "磁铁", "磁性"],
+    "US": ["magnetic", "magsafe"],
+    "JP": ["磁気", "マグネット", "マグセーフ"]
+  },
+  "tag_has_phone_clip": {
+    "CN": ["手机夹", "手机夹子", "夹式"],
+    "US": ["phone clip", "clip on", "smartphone clip"],
+    "JP": ["スマホクリップ", "クリップ式", "スマートフォン用クリップ"]
+  },
+  "tag_has_ttl": {
+    "CN": ["ttl"],
+    "US": ["ttl"],
+    "JP": ["ttl"]
+  },
+  "tag_has_hss": {
+    "CN": ["hss", "高速同步"],
+    "US": ["hss", "high speed sync"],
+    "JP": ["hss", "高速同期"]
+  },
+  "tag_has_rgb": {
+    "CN": ["rgb", "双色温", "双色"],
+    "US": ["rgb", "bicolor", "bi-color"],
+    "JP": ["rgb", "バイカラー"]
+  },
+  "tag_has_usb": {
+    "CN": ["usb", "usb充电"],
+    "US": ["usb", "usb powered"],
+    "JP": ["usb"]
+  },
+  "tag_is_rechargeable": {
+    "CN": ["充电式", "可充电", "电池"],
+    "US": ["rechargeable", "battery powered", "mah"],
+    "JP": ["充電式", "バッテリー"]
+  },
+  "tag_is_action_camera": {
+    "CN": ["运动相机", "gopro", "action camera", "运动摄影"],
+    "US": ["action camera", "gopro", "insta360", "dji osmo"],
+    "JP": ["アクションカメラ", "gopro", "insta360", "アクションカム"]
+  },
+  "tag_for_live_streaming": {
+    "CN": ["直播", "直播灯", "vlog", "主播"],
+    "US": ["live streaming", "vlog", "livestream", "streaming"],
+    "JP": ["ライブ配信", "vlog", "ストリーミング", "生放送"]
+  },
+  "tag_is_selfie": {
+    "CN": ["自拍", "自拍照", "selfie"],
+    "US": ["selfie", "portrait", "self portrait"],
+    "JP": ["自撮り", "セルフィー"]
+  }
+}

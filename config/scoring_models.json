@@ -1,0 +1,180 @@
+{
+  "COB补光灯": {
+    "base_score": 50,
+    "weights": {
+      "tag_has_bowens": 80,
+      "tag_is_cob": 60,
+      "f_wattage": 50,
+      "tag_is_video_light": 30,
+      "tag_has_rgb": 20,
+      "tag_has_stand": 20,
+      "tag_is_ring": -200,
+      "tag_is_tube": -150,
+      "tag_is_small": -100,
+      "tag_is_flashlight": -200,
+      "tag_is_inflatable": -150,
+      "tag_is_flash": -150,
+      "tag_is_rechargeable": -30
+    }
+  },
+  "平板灯": {
+    "base_score": 50,
+    "weights": {
+      "tag_is_panel": 100,
+      "tag_is_video_light": 50,
+      "f_wattage": 30,
+      "tag_has_rgb": 25,
+      "tag_has_stand": 25,
+      "tag_has_bowens": -100,
+      "tag_is_ring": -200,
+      "tag_is_tube": -150,
+      "tag_is_small": -80,
+      "tag_is_flashlight": -200,
+      "tag_is_inflatable": -150,
+      "tag_is_flash": -200
+    }
+  },
+  "环形灯": {
+    "base_score": 60,
+    "weights": {
+      "tag_is_ring": 150,
+      "tag_is_small": 20,
+      "tag_has_stand": 30,
+      "tag_is_selfie": 30,
+      "tag_is_video_light": 30,
+      "tag_has_bowens": -200,
+      "tag_is_panel": -150,
+      "tag_is_tube": -200,
+      "tag_is_flashlight": -200,
+      "tag_is_inflatable": -150,
+      "tag_is_flash": -150
+    }
+  },
+  "闪光灯": {
+    "base_score": 60,
+    "weights": {
+      "tag_is_flash": 120,
+      "tag_has_ttl": 70,
+      "tag_has_hss": 70,
+      "tag_has_bowens": 50,
+      "f_wattage": 40,
+      "tag_is_ring": -100,
+      "tag_is_panel": -200,
+      "tag_is_video_light": -100,
+      "tag_is_tube": -150,
+      "tag_is_small": -80,
+      "tag_is_flashlight": -100,
+      "tag_is_inflatable": -150
+    }
+  },
+  "口袋灯": {
+    "base_score": 40,
+    "weights": {
+      "tag_is_small": 90,
+      "tag_is_video_light": 60,
+      "tag_has_usb": 40,
+      "tag_is_rechargeable": 40,
+      "f_wattage": 10,
+      "tag_has_bowens": -200,
+      "tag_has_stand": -50,
+      "tag_is_tube": -100,
+      "tag_is_ring": -150,
+      "tag_is_inflatable": -150,
+      "tag_is_flashlight": -100,
+      "tag_is_flash": -200
+    }
+  },
+  "棒灯": {
+    "base_score": 50,
+    "weights": {
+      "tag_is_tube": 150,
+      "tag_is_small": 30,
+      "tag_has_rgb": 30,
+      "tag_has_stand": 20,
+      "tag_has_bowens": -200,
+      "tag_is_panel": -150,
+      "tag_is_ring": -200,
+      "tag_is_flashlight": -150,
+      "tag_is_inflatable": -150,
+      "tag_is_flash": -200
+    }
+  },
+  "摄影手电": {
+    "base_score": 50,
+    "weights": {
+      "tag_is_flashlight": 130,
+      "tag_is_small": 40,
+      "tag_is_rechargeable": 30,
+      "f_wattage": 20,
+      "tag_has_bowens": -200,
+      "tag_is_video_light": -80,
+      "tag_is_ring": -200,
+      "tag_is_panel": -200,
+      "tag_is_tube": -150,
+      "tag_is_inflatable": -100,
+      "tag_is_flash": -100
+    }
+  },
+  "充气灯": {
+    "base_score": 50,
+    "weights": {
+      "tag_is_inflatable": 150,
+      "tag_has_rgb": 30,
+      "tag_has_stand": 30,
+      "f_wattage": 30,
+      "tag_has_bowens": -100,
+      "tag_is_video_light": -30,
+      "tag_is_ring": -200,
+      "tag_is_panel": -100,
+      "tag_is_tube": -150,
+      "tag_is_small": -100,
+      "tag_is_flashlight": -150,
+      "tag_is_flash": -150
+    }
+  },
+  "手机便携补光灯": {
+    "base_score": 40,
+    "weights": {
+      "tag_is_small": 80,
+      "tag_has_magnetic": 70,
+      "tag_has_phone_clip": 60,
+      "tag_has_usb": 50,
+      "tag_is_rechargeable": 50,
+      "tag_is_selfie": 40,
+      "tag_for_live_streaming": 30,
+      "f_wattage": 10,
+      "tag_has_bowens": -200,
+      "tag_has_stand": -100,
+      "tag_is_ring": -150,
+      "tag_is_panel": -100,
+      "tag_is_tube": -150,
+      "tag_is_flashlight": -150,
+      "tag_is_inflatable": -100,
+      "tag_is_flash": -200
+    }
+  },
+  "运动相机补光灯": {
+    "base_score": 40,
+    "weights": {
+      "tag_is_action_camera": 100,
+      "tag_is_small": 60,
+      "tag_has_magnetic": 80,
+      "tag_is_rechargeable": 50,
+      "tag_has_usb": 40,
+      "tag_is_video_light": 40,
+      "f_wattage": 20,
+      "tag_has_bowens": -200,
+      "tag_has_stand": -100,
+      "tag_is_ring": -200,
+      "tag_is_panel": -150,
+      "tag_is_tube": -150,
+      "tag_is_flashlight": -100,
+      "tag_is_inflatable": -100,
+      "tag_is_flash": -200
+    }
+  },
+  "灯光类-其他": {
+    "base_score": 0,
+    "weights": {}
+  }
+}

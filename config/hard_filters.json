@@ -1,0 +1,17 @@
+{
+  "accessories": [
+    "softbox", "柔光箱", "ディフューザー", "diffuser",
+    "reflector", "リフレクター", "grid", "グリッド",
+    "honeycomb", "ハニカム", "barndoor", "バーンドア",
+    "gobo", "ゴボ", "fresnel", "フレネル", "spotlight", "スポットライト",
+    "cable", "电缆", "ケーブル", "adapter", "アダプター",
+    "converter", "コンバータ", "mount adapter", "マウントアダプター",
+    "snoot", "スヌート", "flag", "フラッグ", "barn door", "バーンドア",
+    "umbrella", "伞", "傘", "アンブレラ"
+  ],
+  "form_factor_lock": {
+    "tag_is_ring": "环形灯",
+    "tag_is_inflatable": "充气灯"
+  },
+  "min_score_threshold": 30
+}
