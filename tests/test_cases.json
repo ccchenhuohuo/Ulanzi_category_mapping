@@ -1,0 +1,100 @@
+{
+  "test_cases": [
+    {
+      "sku_title": "amaran Pano 120c Kit 120W RGBWW パネルライト",
+      "site": "JP",
+      "expected_category": "平板灯",
+      "description": "Pano 120c - 高功率平板灯被误判为COB"
+    },
+    {
+      "sku_title": "Aputure MT Pro Tube Light 60cm RGBWW チューブライト",
+      "site": "JP",
+      "expected_category": "棒灯",
+      "description": "MT Pro - 棒灯被误判为手机便携补光灯"
+    },
+    {
+      "sku_title": "Godox AD300Pro 300W Speedlite ストロボ TTL HSS",
+      "site": "JP",
+      "expected_category": "闪光灯",
+      "description": "AD300Pro - 高功率闪光灯被误判为COB"
+    },
+    {
+      "sku_title": "Aputure Amaran Ace 25c Compact Video Light ビデオライト",
+      "site": "JP",
+      "expected_category": "口袋灯",
+      "description": "Ace 25c - 口袋平板灯"
+    },
+    {
+      "sku_title": "NiceVeedi Ring Light 10inch with Phone Stand リングライト",
+      "site": "JP",
+      "expected_category": "环形灯",
+      "description": "NiceVeedi - 环形灯被误判为手机便携补光灯"
+    },
+    {
+      "sku_title": "Aputure Amaran 200x Bowens Mount COB LED Light",
+      "site": "US",
+      "expected_category": "COB补光灯",
+      "description": "Amaran 200x - 标准COB灯"
+    },
+    {
+      "sku_title": "Ulanzi VL49 Mini Video Light Pocket Light",
+      "site": "US",
+      "expected_category": "口袋灯",
+      "description": "Ulanzi VL49 - 典型口袋灯"
+    },
+    {
+      "sku_title": "Inflatable Balloon Light 60cm RGB エアライト",
+      "site": "JP",
+      "expected_category": "充气灯",
+      "description": "充气灯"
+    },
+    {
+      "sku_title": "Godox TT685 Speedlite TTL HSS 2.4G",
+      "site": "JP",
+      "expected_category": "闪光灯",
+      "description": "TT685 - 标准闪光灯"
+    },
+    {
+      "sku_title": "Godox ML60 60W COB LED Studio Light",
+      "site": "US",
+      "expected_category": "COB补光灯",
+      "description": "ML60 - 标准COB补光灯"
+    },
+    {
+      "sku_title": "Magnetic Video Light for Action Camera Gopro",
+      "site": "US",
+      "expected_category": "运动相机补光灯",
+      "description": "运动相机磁吸补光灯"
+    },
+    {
+      "sku_title": "Softbox Diffuser for Photography Light",
+      "site": "US",
+      "expected_category": "灯光类-其他",
+      "description": "配件 - 柔光箱应归为其他"
+    },
+    {
+      "sku_title": "LED Ring Light 10 inch USB Powered for Selfie",
+      "site": "JP",
+      "expected_category": "环形灯",
+      "description": "环形灯USB供电"
+    },
+    {
+      "sku_title": "PavoTube II 15C RGBWW Tube Light",
+      "site": "US",
+      "expected_category": "棒灯",
+      "description": "PavoTube - 棒灯"
+    },
+    {
+      "sku_title": "Underwater Flashlight for Diving Photography",
+      "site": "US",
+      "expected_category": "摄影手电",
+      "description": "潜水摄影手电筒"
+    },
+    {
+      "sku_title": "Portable Phone Clip LED Fill Light",
+      "site": "JP",
+      "expected_category": "手机便携补光灯",
+      "description": "手机夹式补光灯"
+    }
+  ]
+}
